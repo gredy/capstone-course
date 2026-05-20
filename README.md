@@ -1,2 +1,2 @@
 # capstone-course
-courses od data science and AI
+courses of data science and AI
